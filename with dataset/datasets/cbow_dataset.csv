@@ -1,0 +1,51 @@
+id,text
+1,deep learning is a subset of machine learning based on artificial neural networks
+2,neural networks learn representations of data through multiple layers of abstraction
+3,natural language processing enables computers to understand and process human language
+4,continuous bag of words model predicts the target word from surrounding context words
+5,the skip gram model predicts context words given a target word
+6,word embeddings represent words as continuous vectors in a low dimensional space
+7,similar words are mapped to nearby points in the vector embedding space
+8,feedforward neural networks pass information in one direction from input to output
+9,gradient descent optimizes the weights of the neural network by minimizing the loss function
+10,stochastic gradient descent updates model parameters using a small batch of training data
+11,convolutional neural networks are widely used for image classification and computer vision
+12,recurrent neural networks are designed to process sequential data like text and time series
+13,autoencoders learn a compressed representation of input data for reconstruction and anomaly detection
+14,an anomaly detection system identifies data points that deviate significantly from normal patterns
+15,activation functions introduce non linearity into artificial neural network architectures
+16,rectified linear unit is a popular activation function for deep neural networks
+17,softmax activation function converts logits into probability distributions across classes
+18,cross entropy loss measures the performance of a classification model whose output is probability
+19,mean squared error measures the average squared difference between estimated values and actual values
+20,backpropagation calculates the gradient of the loss function with respect to each weight
+21,hyperparameter tuning optimizes learning rate batch size and number of hidden layers
+22,transfer learning allows models trained on large datasets to solve related tasks
+23,tokenization splits text into smaller units such as words or subword tokens
+24,vocabulary size determines the dimensionality of the one hot encoded vectors
+25,context window size controls how many surrounding words are considered during training
+26,word vectors capture semantic and syntactic relationships between different words
+27,cosine similarity measures the angle between two word vectors in vector space
+28,vector representation allows mathematical operations on words such as king minus man plus woman equals queen
+29,unsupervised learning discovers hidden patterns in data without using explicit target labels
+30,supervised learning trains a predictive model on labeled pairs of input and output data
+31,dense layers connect every neuron in one layer to every neuron in the subsequent layer
+32,dropout regularization prevents overfitting by randomly deactivating neurons during training
+33,batch normalization stabilizes the learning process and reduces training time in deep networks
+34,the learning rate is a crucial hyperparameter that determines the step size during optimization
+35,loss curves visualize how model error decreases across successive training epochs
+36,evaluation metrics such as accuracy precision recall and f1 score assess model performance
+37,confusion matrix summarizes classification results showing true positives and false positives
+38,latent space captures the essential underlying features of complex high dimensional data
+39,reconstruction error measures how accurately an autoencoder reproduces its original input
+40,anomalous samples exhibit significantly higher reconstruction error compared to normal samples
+41,word2vec is an efficient framework for learning continuous distributed vector representations of words
+42,shallow two layer neural networks can learn surprisingly rich semantic word embeddings
+43,matrix factorization and neural network methods are popular approaches for representation learning
+44,language models predict the likelihood of a sequence of words based on linguistic context
+45,text preprocessing includes lowercasing punctuation removal tokenization and stopword filtering
+46,target words are predicted from the average vector of context words in cbow architecture
+47,embedding layer acts as a lookup table that maps integer indices to dense vectors
+48,softmax layer computes the conditional probability distribution over the entire vocabulary
+49,training deep learning models requires substantial computational resources including graphics processing units
+50,artificial intelligence systems transform industries through automated decision making and pattern recognition
